@@ -1,0 +1,8 @@
+{
+  "name": "oxigen-f45-Soho-lambda",
+  "version": "1.0.0",
+  "description": "sample lambda for oxigen poc",
+  "main": "index.js",
+  "author": "EMMANUEL OYEKAN",
+  "license": "MIT"
+}
